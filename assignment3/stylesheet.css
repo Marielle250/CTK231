@@ -1,0 +1,37 @@
+h1 {
+    color: rgb(185, 15, 15);
+}
+
+a:link {
+  color: red; 
+}
+
+a:visited {
+  color: green; 
+}
+
+a:active {
+  color: red;
+}
+
+a:hover {
+  color: yellow;
+  text-decoration: underline;
+}
+
+.specialp {
+    color: rgb(255, 70, 70);
+    background-color: black;
+}
+
+.spanstyle {
+  background-color: red;
+}
+
+h3 {
+  color: red;
+}
+
+h4 {
+  color: orange;
+}
