@@ -1,0 +1,44 @@
+h1 {
+    color: white;
+}
+
+h3 {
+   background-color: gold;
+}
+
+.background {
+    background-color: #99aff9;
+}
+
+h2 {
+    color: blue;
+}
+
+h5 {
+    color: red;
+}
+
+.turngold {
+    color: gold;
+}
+
+.turnred {
+    color: red;
+}
+
+.turnblue {
+    color: blue;
+}
+
+.special {
+    color: yellow;
+    background-color: green;
+}
+
+.backgroundgreen {
+    background-color: lightgreen;
+}
+
+.specialyellow {
+    background-color: yellow;
+}
