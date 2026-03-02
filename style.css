@@ -1,0 +1,64 @@
+a:link {
+  color: red;
+}
+
+a:hover {
+  color: yellow;
+}
+
+a:visited {
+  color: green;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+h3 {
+    color: #ffffff;
+}
+
+.gohan {
+    background-color: #5e2b97;
+    color: #ffffff;
+}
+
+.gohan-text {
+    background-color: #c1121f;
+    color: white;
+}
+
+.gohan2 {
+    background-color: #c2a878;
+    color: white;
+}
+
+.goku {
+    background-color: #ff8c00;
+}
+
+.goku-text {
+    background-color: #1f3c88;;  
+}
+
+#special {
+    background-color: #ffe66d;;
+    color: #ffffff;
+}
+.vegeta {
+    background-color: #143d8b;
+}
+
+.vegeta2 {
+    background-color: #3a0ca3;
+    color: #ffffff;
+}
+
+.vegeta-text {
+    background-color: #ffd166;
+    color: #ffffff;
+}
