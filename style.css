@@ -62,3 +62,33 @@ h3 {
     background-color: #ffd166;
     color: #ffffff;
 }
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
+
+img {
+    border: 10px solid black;
+    padding: 10px;
+    background-color: yellow;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.justify-text {
+    text-align: justify;
+}
+
+body {
+    background-image: url("Gohan.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
